@@ -25,6 +25,7 @@ namespace HomeService.UI
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/home.css",
                       "~/Content/site.css"));
         }
     }
